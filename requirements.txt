@@ -1,0 +1,11 @@
+ipywidgets==7.7.1
+matplotlib
+numpy
+pandas
+torch
+torchvision==0.13.1
+tqdm==4.64.0
+networkx
+scipy
+multiprocess
+sympy
